@@ -10,6 +10,8 @@
 > Well, a program inside the terminal, where you can play like if you were in a Slot Machine
 >
 
+<center>
+
 > [!IMPORTANT]
 >
 > <div align="center">  <h2>Español</h2>  </div>
@@ -17,6 +19,7 @@
 > Bueno, un programa dentro de la terminal, donde tú puedes jugar como si estuvieras en una máquina tragamonedas.
 > 
 
+</center>
 
 
 <br>
